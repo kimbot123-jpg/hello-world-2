@@ -42,6 +42,8 @@ The purpose of this research is...
 ## Ethical Notes
 All research was conducted using publicly available information.
 
+
+## A good way of organising folders
 screenshots/
 ├── telegram/
 ├── satellite/
@@ -52,3 +54,8 @@ datasets/
 ├── raw/
 ├── cleaned/
 └── exports/
+
+## This is how to link images
+![Before editing](images/edited-swanage.jpg)
+
+![After editing](images/after.jpg)
