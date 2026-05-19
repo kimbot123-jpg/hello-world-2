@@ -51,6 +51,16 @@ Evidence
 Sources
 Conclusion
 
+## A good way of organising the repo
+│
+├── README.md
+├── evidence/
+├── screenshots/
+├── maps/
+├── datasets/
+├── timelines/
+├── scripts/
+└── sources/
 
 ## A good way of organising folders
 screenshots/
