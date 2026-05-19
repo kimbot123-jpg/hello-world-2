@@ -41,3 +41,14 @@ The purpose of this research is...
 
 ## Ethical Notes
 All research was conducted using publicly available information.
+
+screenshots/
+├── telegram/
+├── satellite/
+├── social-media/
+└── archived-sites/
+
+datasets/
+├── raw/
+├── cleaned/
+└── exports/
