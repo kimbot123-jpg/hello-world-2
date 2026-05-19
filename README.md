@@ -42,6 +42,15 @@ The purpose of this research is...
 ## Ethical Notes
 All research was conducted using publicly available information.
 
+## can also structure the readme like this
+Summary
+Background
+Methodology
+Findings
+Evidence
+Sources
+Conclusion
+
 
 ## A good way of organising folders
 screenshots/
