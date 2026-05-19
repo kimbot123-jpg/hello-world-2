@@ -56,6 +56,6 @@ datasets/
 └── exports/
 
 ## This is how to link images
-![Before editing](images/edited-swanage.jpg)
+![Before editing](images/editedswanage.jpg)
 
 ![After editing](images/after.jpg)
